@@ -17,11 +17,7 @@ Make sure `opencv2` is installed for python.
 
 ## How to run
 <ul>
-  <li>Navigate to the directory of the repo on command line.</li>
-   <li>Ensure that the input path for images is as you need in main.py.</li>
-  <li>Run 
-    
-    python main.py
-  </li>
+   <li>Ensure that the input path for images is as you need in main.ipynb.</li>
+   <li> Run all cells </li>
  
 </ul>
