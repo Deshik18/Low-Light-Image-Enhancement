@@ -1,6 +1,6 @@
 ## Acknowledgments
 
-This project was inspired by recent advancements in unsupervised backlit image enhancement, particularly the work of Liang et al.:
+This project was inspired by recent advancements in unsupervised backlit image enhancement
 
 @inproceedings{liang2023iterative,
   title={Iterative prompt learning for unsupervised backlit image enhancement},
